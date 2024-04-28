@@ -16,6 +16,8 @@
 <a href="https://instagram.com/luciano_gmoraes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luciano_gmoraes" height="30" width="40" /></a>
 </p>
 
+<hr />
+
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianogmoraesjr&" alt="lucianogmoraesjr" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianogmoraesjr&show_icons=true&locale=en&layout=compact" alt="lucianogmoraesjr" />
