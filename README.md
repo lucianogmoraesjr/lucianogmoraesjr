@@ -22,6 +22,6 @@
 <hr />
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianogmoraesjr&" alt="lucianogmoraesjr" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianogmoraesjr&show_icons=true&locale=en&layout=compact" alt="lucianogmoraesjr" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianogmoraesjr&" alt="lucianogmoraesjr" height="200px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianogmoraesjr&show_icons=true&locale=en&layout=compact" alt="lucianogmoraesjr" height="200px" />
 </p>
